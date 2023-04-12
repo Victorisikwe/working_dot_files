@@ -42,3 +42,17 @@ sudo cp -R $HOME/Downloads/nerdfonts/ /usr/share/fonts/
 # Regenerate font cache
 fc-cache -rv 
 ```
+```
+# Login manager
+sudo tar -xzvf ~/Downloads/sddm-sober.tar.gz -C /usr/share/sddm/themes
+```
+
+## This will extract all the files to a new folder "sober" inside of the themes directory of SDDM.
+## After that you will have to point SDDM to the new theme by editing its config files :
+
+```
+vim /etc/sddm.conf.d/sddm.conf
+```
+
+In the [Theme] section set Current=sober. For a more detailed description please refer to the Arch wiki on sddm. Note that, depending on your system setup, a duplicate configuration may exist in /etc/sddm.conf. Usually this takes preference so you want to set the above line in this file if you have it.
+
