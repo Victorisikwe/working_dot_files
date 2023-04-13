@@ -28,10 +28,10 @@ yay -S catppuccin-gtk-theme-mocha catppuccin-cursors-mocha catppuccin-mocha-grub
 yay -S cava pavucontrol ranger zsh starship neovim viewnior noise-suppression-for-voice
 ```
 
-#Clone repo
+## Clone repo
 ```
-git clone https://github.com/linuxmobile/hyprland-dots $HOME/Downloads/hyprland-dots/
-cd $HOME/Downloads/hyprland-dots/
+git clone https://github.com/Victorisikwe/working_dot_files/ $HOME/Downloads/working_dot_files/
+cd $HOME/Downloads/working_dot_files/
 rsync -avxHAXP --exclude '.git*' .* ~/
 ```
 
