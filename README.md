@@ -28,6 +28,13 @@ yay -S catppuccin-gtk-theme-mocha catppuccin-cursors-mocha catppuccin-mocha-grub
 yay -S cava pavucontrol ranger zsh starship neovim viewnior noise-suppression-for-voice
 ```
 
+#Clone repo
+```
+git clone https://github.com/linuxmobile/hyprland-dots $HOME/Downloads/hyprland-dots/
+cd $HOME/Downloads/hyprland-dots/
+rsync -avxHAXP --exclude '.git*' .* ~/
+```
+
 ```
 #As fonts i'm using Cartograph CF (patched with nerdfont) It's a licensed font, then select any font you like
 mkdir -p $HOME/Downloads/nerdfonts/
