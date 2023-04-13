@@ -1,0 +1,107 @@
+2023-04-12T08:37:04.396Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2023-04-12T08:37:09.520Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2023-04-12T08:37:09.527Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2023-04-12T08:37:10.092Z [ELECTRON:user-action] info: onSubscribed|"sharkState" 
+2023-04-12T08:37:10.095Z [ELECTRON:user-action] info: onSubscribed:success 
+2023-04-12T08:37:10.233Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:37:10.236Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:37:10.237Z [ELECTRON:user-action] info: refetchLocations|{"throws":true} 
+2023-04-12T08:37:10.258Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:37:10.260Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:37:10.471Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:10.652Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/account/users/me	401 
+2023-04-12T08:37:10.692Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v4/server/clusters/all	200 
+2023-04-12T08:37:10.744Z [ELECTRON:user-action] info: refetchLocations:success 
+2023-04-12T08:37:12.812Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/auth/renew	200 
+2023-04-12T08:37:12.847Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:12.874Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:13.993Z [ELECTRON:fetch] info: GET https://api.surfshark.com/latest/server/user	200 
+2023-04-12T08:37:23.762Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:37:23.765Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:37:23.767Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:37:23.768Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:37:23.769Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:37:23.770Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:37:27.578Z [ELECTRON:user-action] info: connect|{"location":{"id":"dbe53459-2fe7-4679-b318-f65b4d704902","country":"United States","countryCode":"US","region":"The Americas","regionCode":"AM","load":1,"type":"generic","location":"Seattle","connectionName":"us-sea.prod.surfshark.com","tags":["p2p"],"transitCluster":null,"flagUrl":"https://cdn.ss-cdn.com/assets/flags/US.png","pubKey":"SpMH/p90bg9ZAG6V2DWJQ9csWPVnKcDVppIp9Xul5G8=","_exitUnit":null,"_exitUniti18nCode":null,"_exitUnitLocaleCountry":null},"intent":"location_search"} 
+2023-04-12T08:37:30.259Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	200 
+2023-04-12T08:37:30.611Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:30.656Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:30.662Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:30.667Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:31.009Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:31.510Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:31.549Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:32.230Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	200 
+2023-04-12T08:37:32.286Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:32.308Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:32.313Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:32.318Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:32.657Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:33.182Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:33.209Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:33.382Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:33.397Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:33.402Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:33.407Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:33.725Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:34.311Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:34.341Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:34.458Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:34.473Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:34.477Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:34.483Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:34.832Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:35.362Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:35.390Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:35.550Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:35.564Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:35.569Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:35.575Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:35.892Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:36.399Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:36.428Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:36.649Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2023-04-12T08:37:36.664Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2023-04-12T08:37:36.669Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2023-04-12T08:37:36.674Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2023-04-12T08:37:37.001Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:37:37.526Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:37:37.554Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:37:37.740Z [ELECTRON:user-action] info: connect:error Failed to add ipv6 leak protection! NetworkManager is not running	ipv6_leak_protection_error 
+2023-04-12T08:37:37.740Z [ELECTRON:user-action] error: Failed to add ipv6 leak protection! NetworkManager is not running 
+Error: Failed to add ipv6 leak protection! NetworkManager is not running
+    at eK._request (/opt/Surfshark/resources/app.asar/main.js:1:1253376)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1335706)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+    at async lh (/opt/Surfshark/resources/app.asar/main.js:1:1336355)
+2023-04-12T08:37:37.802Z [ELECTRON:user-action] info: showDialog|{"type":"DIALOG_UNTRANSLATED_ERROR","message":"Error invoking remote method 'connect': Error: Error: Failed to add ipv6 leak protection! NetworkManager is not running Cause: ipv6_leak_protection_error"} 
+2023-04-12T08:37:37.805Z [ELECTRON:user-action] info: showDialog:success 
+2023-04-12T08:38:12.869Z [ELECTRON:user-action] info: closeDialog|undefined 
+2023-04-12T08:38:12.872Z [ELECTRON:user-action] info: closeDialog:success 
+2023-04-12T08:38:15.314Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:15.315Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:17.307Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:17.309Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:17.310Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:17.311Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:17.312Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:17.313Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:17.314Z [ELECTRON:user-action] info: refetchLocations|{"throws":true} 
+2023-04-12T08:38:17.319Z [ELECTRON:user-action] info: getUserData 
+2023-04-12T08:38:17.809Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v4/server/clusters/all	200 
+2023-04-12T08:38:17.944Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2023-04-12T08:38:17.981Z [ELECTRON:user-action] info: refetchLocations:success 
+2023-04-12T08:38:17.992Z [ELECTRON:user-action] info: getUserData:success 
+2023-04-12T08:38:21.410Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:21.414Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:25.075Z [ELECTRON:user-action] info: getUserSubscription|undefined 
+2023-04-12T08:38:25.077Z [ELECTRON:user-action] info: sge 
+2023-04-12T08:38:25.078Z [ELECTRON:user-action] info: sge:success 
+2023-04-12T08:38:25.636Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/payment/subscriptions/current	200 
+2023-04-12T08:38:25.660Z [ELECTRON:user-action] info: getUserSubscription:success 

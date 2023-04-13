@@ -1,0 +1,31 @@
+{
+	"user-state": {
+		"status": "logged-out",
+		"userData": {
+			"ip": "197.211.58.30",
+			"isp": "",
+			"countryCode": "NG",
+			"country": "Nigeria",
+			"region": "",
+			"currency": "",
+			"city": "",
+			"zipCode": "",
+			"secured": false,
+			"torrent": false,
+			"restricted": false
+		},
+		"originalUserData": {
+			"ip": "197.211.58.30",
+			"isp": "Globacom Limited",
+			"countryCode": "NG",
+			"country": "Nigeria",
+			"region": "Delta",
+			"currency": "USD",
+			"city": "Ughelli",
+			"zipCode": "333105",
+			"secured": false,
+			"torrent": false,
+			"restricted": false
+		}
+	}
+}

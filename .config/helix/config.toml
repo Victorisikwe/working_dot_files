@@ -1,0 +1,12 @@
+theme = "rose_pine"
+
+[editor]
+"line-number" = "relative"
+
+# At most one section each of 'keys.normal', 'keys.insert' and 'keys.select'
+[keys.normal.space]
+";" = "command_mode"
+
+[keys.insert]
+j = { k = "normal_mode" } # Maps `jk` to exit insert mode
+

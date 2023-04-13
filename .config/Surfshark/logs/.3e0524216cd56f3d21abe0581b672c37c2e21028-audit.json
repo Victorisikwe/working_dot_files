@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/lazio/.config/Surfshark/logs/.3e0524216cd56f3d21abe0581b672c37c2e21028-audit.json",
+    "files": [
+        {
+            "date": 1681288623975,
+            "name": "/home/lazio/.config/Surfshark/logs/debug-2023-04-12-09.log",
+            "hash": "8310b19ddb3f9722e2e90fb2ff30ce0a7df3c2ebd807446d9157551863de16f9"
+        }
+    ],
+    "hashType": "sha256"
+}

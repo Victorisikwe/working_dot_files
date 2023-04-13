@@ -1,0 +1,329 @@
+{
+	"user-state": {
+		"status": "logged-in",
+		"me": {
+			"userServices": [],
+			"daysAfterSignup": 703,
+			"email": "s.rrozey@gmail.com",
+			"twoFactorAuth": null,
+			"roles": [],
+			"availableRoles": [],
+			"passwordUpdatedAt": "2022-07-28T14:15:05+00:00",
+			"allowPromotion": false,
+			"language": "en",
+			"billingInfo": null,
+			"technologies": [
+				"vpn"
+			],
+			"externalId": "59fd7262-025d-4f1f-8de6-d35698141d53",
+			"id": "59fd7262-025d-4f1f-8de6-d35698141d53"
+		},
+		"subscription": {
+			"taxCountry": "US",
+			"regionName": null,
+			"zipCode": null,
+			"taxPercentage": 0,
+			"price": {
+				"amount": 5976,
+				"currency": {
+					"code": "USD"
+				}
+			},
+			"tax": {
+				"amount": 0,
+				"currency": {
+					"code": "USD"
+				}
+			},
+			"expiresAt": "2023-06-17T08:47:25+00:00",
+			"upgradable": true,
+			"recurringFrequency": 12,
+			"productPlanId": "a7561846-bc04-11e8-a555-06b9bd640afa",
+			"name": "24 Months",
+			"frequency": 24,
+			"frequencyUnit": "month",
+			"startingBonus": 12,
+			"displayFrequency": 0,
+			"status": "active",
+			"type": "general",
+			"renewable": false,
+			"orders": [
+				{
+					"taxCountry": "US",
+					"regionName": null,
+					"zipCode": null,
+					"taxPercentage": 0,
+					"price": {
+						"amount": 3278,
+						"currency": {
+							"code": "USD"
+						}
+					},
+					"tax": {
+						"amount": 0,
+						"currency": {
+							"code": "USD"
+						}
+					},
+					"expiresAt": "2021-08-20T23:36:47+00:00",
+					"nextPaymentDetails": null,
+					"changedPaymentDetails": false,
+					"paymentProvider": {
+						"id": "bdeb797a-8755-4a3d-9297-fd883d1d6d72",
+						"code": "cleverbridge",
+						"isActive": true,
+						"name": "PayPal",
+						"setupConfig": [],
+						"currencies": [],
+						"defaultCurrency": "USD",
+						"category": null,
+						"upgradable": true,
+						"recurring": true,
+						"invoiceable": false
+					},
+					"paymentDetails": null,
+					"upgrade": false,
+					"originalOrderId": null,
+					"frequency": 22,
+					"frequencyUnit": "month",
+					"trial": false,
+					"status": "cancel",
+					"orderIntent": {
+						"type": "add_upsell",
+						"items": [
+							{
+								"taxCountry": "US",
+								"regionName": null,
+								"zipCode": null,
+								"taxPercentage": 0,
+								"price": {
+									"amount": 3278,
+									"currency": {
+										"code": "USD"
+									}
+								},
+								"tax": {
+									"amount": 0,
+									"currency": {
+										"code": "USD"
+									}
+								},
+								"status": "active",
+								"packageId": "81babffb-d645-4b5a-89f0-54e8ccdabcdb",
+								"planId": "a0fd5f84-9d30-11eb-aaaa-02f9a73ef8fc",
+								"frequency": 22,
+								"frequencyUnit": "month",
+								"expiresAt": "2023-06-17T08:47:25+00:00",
+								"createdAt": "2021-08-20T22:06:47+00:00",
+								"updatedAt": "2021-08-20T22:06:47+00:00"
+							}
+						]
+					},
+					"invoiceNumber": null,
+					"invoiceBusiness": false,
+					"customerId": "59fd7262-025d-4f1f-8de6-d35698141d53",
+					"id": "dcde69fe-e589-408c-8551-b98978f0b782",
+					"createdAt": "2021-08-20T22:06:47+00:00",
+					"updatedAt": "2021-08-20T23:45:00+00:00"
+				},
+				{
+					"taxCountry": "US",
+					"regionName": null,
+					"zipCode": null,
+					"taxPercentage": 0,
+					"price": {
+						"amount": 5976,
+						"currency": {
+							"code": "USD"
+						}
+					},
+					"tax": {
+						"amount": 0,
+						"currency": {
+							"code": "USD"
+						}
+					},
+					"expiresAt": "2021-06-17T10:47:25+00:00",
+					"nextPaymentDetails": {
+						"paymentProvider": {
+							"id": "9bd943b2-c8de-47b0-b46d-f15e5ba8d0c3",
+							"code": "surfshark_coingate",
+							"isActive": true,
+							"name": "CoinGate",
+							"setupConfig": [],
+							"currencies": [],
+							"defaultCurrency": "USD",
+							"category": "crypto",
+							"upgradable": false,
+							"recurring": false,
+							"invoiceable": true
+						},
+						"paymentToken": "183dd4b5-faa1-47dc-9292-4f69fc3c3732",
+						"scheme": null,
+						"cardType": null,
+						"cardLastNumber": null,
+						"cardExpiredYear": null,
+						"cardExpiredMonth": null,
+						"email": null,
+						"createdAt": "2021-06-17T08:47:25+00:00",
+						"updatedAt": "2021-06-17T09:15:06+00:00"
+					},
+					"changedPaymentDetails": false,
+					"paymentProvider": {
+						"id": "9bd943b2-c8de-47b0-b46d-f15e5ba8d0c3",
+						"code": "surfshark_coingate",
+						"isActive": true,
+						"name": "CoinGate",
+						"setupConfig": [],
+						"currencies": [],
+						"defaultCurrency": "USD",
+						"category": "crypto",
+						"upgradable": false,
+						"recurring": false,
+						"invoiceable": true
+					},
+					"paymentDetails": {
+						"paymentProvider": {
+							"id": "9bd943b2-c8de-47b0-b46d-f15e5ba8d0c3",
+							"code": "surfshark_coingate",
+							"isActive": true,
+							"name": "CoinGate",
+							"setupConfig": [],
+							"currencies": [],
+							"defaultCurrency": "USD",
+							"category": "crypto",
+							"upgradable": false,
+							"recurring": false,
+							"invoiceable": true
+						},
+						"paymentToken": "183dd4b5-faa1-47dc-9292-4f69fc3c3732",
+						"scheme": null,
+						"cardType": null,
+						"cardLastNumber": null,
+						"cardExpiredYear": null,
+						"cardExpiredMonth": null,
+						"email": null,
+						"createdAt": "2021-06-17T08:47:25+00:00",
+						"updatedAt": "2021-06-17T09:15:06+00:00"
+					},
+					"upgrade": false,
+					"originalOrderId": null,
+					"frequency": 24,
+					"frequencyUnit": "month",
+					"trial": false,
+					"status": "success",
+					"orderIntent": {
+						"type": "init_default",
+						"items": []
+					},
+					"invoiceNumber": null,
+					"invoiceBusiness": false,
+					"customerId": "59fd7262-025d-4f1f-8de6-d35698141d53",
+					"id": "750a969a-21cc-4b60-a2b3-b8090fed6b18",
+					"createdAt": "2021-06-17T08:47:25+00:00",
+					"updatedAt": "2021-06-17T09:15:06+00:00"
+				}
+			],
+			"pricingInformation": {
+				"taxCountry": null,
+				"regionName": null,
+				"zipCode": null,
+				"taxPercentage": 0,
+				"price": {
+					"amount": 5976,
+					"currency": {
+						"code": "USD"
+					}
+				},
+				"tax": {
+					"amount": 0,
+					"currency": {
+						"code": "USD"
+					}
+				},
+				"intents": [
+					{
+						"type": "add_upsell",
+						"items": [
+							{
+								"taxCountry": "US",
+								"regionName": null,
+								"zipCode": null,
+								"taxPercentage": 0,
+								"price": {
+									"amount": 3278,
+									"currency": {
+										"code": "USD"
+									}
+								},
+								"tax": {
+									"amount": 0,
+									"currency": {
+										"code": "USD"
+									}
+								},
+								"status": "active",
+								"packageId": "81babffb-d645-4b5a-89f0-54e8ccdabcdb",
+								"planId": "a0fd5f84-9d30-11eb-aaaa-02f9a73ef8fc",
+								"frequency": 22,
+								"frequencyUnit": "month",
+								"expiresAt": "2023-06-17T08:47:25+00:00",
+								"createdAt": "2021-08-20T22:06:47+00:00",
+								"updatedAt": "2021-08-20T22:06:47+00:00"
+							}
+						]
+					},
+					{
+						"type": "init_default",
+						"items": []
+					}
+				],
+				"items": [],
+				"customerId": "59fd7262-025d-4f1f-8de6-d35698141d53",
+				"id": "29cd9843-1b20-4ae6-a367-b31a06892545",
+				"createdAt": "2021-06-17T08:47:25+00:00",
+				"updatedAt": "2021-06-17T08:47:25+00:00"
+			},
+			"promotable": false,
+			"source": "vpn",
+			"paymentDetails": null,
+			"customerId": "59fd7262-025d-4f1f-8de6-d35698141d53",
+			"id": "275bbdaf-3a02-4948-8a48-b609a4ed5200",
+			"createdAt": "2021-06-17T08:47:25+00:00",
+			"updatedAt": "2021-06-17T09:15:06+00:00",
+			"taxData": null,
+			"recurringPrice": {
+				"amount": 0,
+				"currency": {
+					"code": "USD"
+				}
+			}
+		},
+		"userData": {
+			"ip": "197.211.58.182",
+			"isp": "",
+			"countryCode": "NG",
+			"country": "Nigeria",
+			"region": "",
+			"currency": "",
+			"city": "",
+			"zipCode": "",
+			"secured": false,
+			"torrent": false,
+			"restricted": false
+		},
+		"originalUserData": {
+			"ip": "197.211.58.182",
+			"isp": "Globacom Limited",
+			"countryCode": "NG",
+			"country": "Nigeria",
+			"region": "Delta",
+			"currency": "USD",
+			"city": "Ughelli",
+			"zipCode": "333105",
+			"secured": false,
+			"torrent": false,
+			"restricted": false
+		}
+	}
+}

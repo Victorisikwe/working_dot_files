@@ -1,0 +1,95 @@
+[MainWindow]
+1879x1253 screen: Height=1172
+1879x1253 screen: Width=907
+1879x1253 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAGQAAAEU/wCAAAAA/sAAAAYAGMAbABpAHAAXwBtAG8AbgBpAHQAbwByAQAAACEAAAFAAAAA2wD////7AAAAFAByAGcAYgBfAHAAYQByAGEAZABlAQAAAWcAAAFAAAAAOwD////8AAACrQAAAccAAAB2AQAAF/oAAAAAAQAAAAL7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUBAAAAAAAAAVsAAAEZAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAQAAAAD/////AAABOAD///8AAAABAAABdwAABFP8AgAAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAABQwAAAJIAAAA7AP////wAAAAhAAADYwAAAAAA////+v////8BAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAAAAAAD/////AAAARAD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA////+wAAABIAdABpAG0AZQByAGUAbQBhAHABAAAAIQAABFMAAABZAP///wAAAAIAAAQaAAAB6vwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAWAD////7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAARwD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAZgD////7AAAACgBtAGkAeABlAHIAAAAD2gAAAGEAAADyAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAZYAAAHOAAABQAD////8AAADagAAANkAAAB7AP////oAAAAAAQAAAAT7AAAAFgBlAGYAZgBlAGMAdABfAGwAaQBzAHQBAAAEoQAAAXkAAAAAAP////sAAAAeAHQAcgBhAG4AcwBpAHQAaQBvAG4AXwBsAGkAcwB0AQAAAAD/////AAAAAAD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAP////8AAABGAP////sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAABYAP////sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AAAAAAD/////AAAARgD////7AAAAEgBTAHUAYgB0AGkAdABsAGUAcwAAAAAA/////wAAAS8A////+wAAABAAYgBpAG4AXwBjAGwAaQBwAAAAAAD/////AAACBQD////7AAAAEAB0AGUAeAB0AGUAZABpAHQBAAAESQAAAWcAAAFnAP////sAAAAMAGcAdQBpAGQAZQBzAAAAAAD/////AAAAwAD////7AAAAHgBvAG4AbABpAG4AZQByAGUAcwBvAHUAcgBjAGUAcwAAAAAA/////wAAAS4A////AAAEGgAAAmMAAAABAAAAAgAAAAEAAAAC/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorSchemePath=BreezeDark.colors
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAGQAAAAHAAAAMAAAAAYAAAAiAAAABQAAAEkAAAAEAAAALAAAAAMAAAAzAAAAAgAAAFkAAAABAAAAMQAAANYAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAA1gAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+lastCacheCheck=2023,3,28,6,56,0.22
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[project]
+vaapiEnabled=true
+vaapiScalingEnabled=true
+
+[sdl]
+preferredcomposite=qtblend
+
+[timeline]
+trackheight=69
+
+[unmanaged]
+consumerslist=avformat,multi,null,decklink,jack,blipflash,cbrts,qglsl,sdl2,sdl2_audio,xml
+default_profile=atsc_1080p_25
+force_breeze=true
+guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
+monitor_audio=false
+producerslist=avformat,avformat-novalidate,abnormal,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,decklink,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf,glaxnimate,framebuffer,blipflash,count,pgm,qimage,qtext,kdenlivetitle,vorbis,xml,xml-string,xml-nogl
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=22.12.3

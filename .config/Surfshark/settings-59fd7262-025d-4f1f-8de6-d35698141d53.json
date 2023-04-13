@@ -1,0 +1,30 @@
+{
+	"settings_tcp": true,
+	"settings_cleanweb": false,
+	"settings_protocol": "auto",
+	"autoconnect_location": "fastest",
+	"autoconnect_enabled": false,
+	"autoconnect_trusted_physical_connection": [],
+	"locations_favorites": [],
+	"recents": [
+		{
+			"id": "16faed5a-475a-421e-b3dd-7ee70e3fc9b9",
+			"country": "United States",
+			"countryCode": "US",
+			"region": "The Americas",
+			"regionCode": "AM",
+			"load": 15,
+			"type": "generic",
+			"location": "Miami",
+			"connectionName": "us-mia.prod.surfshark.com",
+			"tags": [],
+			"transitCluster": null,
+			"flagUrl": "https://cdn.ss-cdn.com/assets/flags/US.png",
+			"pubKey": "KvJ/jtWb8BsBI85OcZnOIJu9kfh12mCMR4cejWFpDCc=",
+			"_exitUnit": null,
+			"_exitUniti18nCode": null,
+			"_exitUnitLocaleCountry": null
+		}
+	],
+	"quick_connect": "fastest"
+}
