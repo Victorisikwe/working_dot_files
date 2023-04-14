@@ -25,7 +25,7 @@ yay -S catppuccin-gtk-theme-mocha catppuccin-cursors-mocha catppuccin-mocha-grub
 
 ```
 # apps
-yay -S cava pavucontrol ranger zsh starship neovim viewnior noise-suppression-for-voice
+yay -S cava pavucontrol ranger zsh starship light viewnior btop noise-suppression-for-voice
 ```
 
 ## Clone repo
